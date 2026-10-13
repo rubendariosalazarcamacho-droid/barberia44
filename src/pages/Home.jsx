@@ -198,7 +198,7 @@ export const Home = () => {
           {/* Barbero 1 */}
           <div className="bg-slate-900 rounded-2xl border border-slate-800 overflow-hidden text-center p-6">
             <div className="w-24 h-24 bg-slate-800 rounded-full mx-auto mb-4 flex items-center justify-center text-3xl">💈</div>
-            <h3 className="text-lg font-bold text-white">Carlos "Master"</h3>
+            <h3 className="text-lg font-bold text-white">Jesus "Master"</h3>
             <p className="text-xs text-cyan-400 font-medium mt-0.5">Especialista en Fade & Barbería Clásica</p>
             <p className="text-xs text-slate-400 mt-3">8 años de experiencia. Habla Español e Inglés.</p>
           </div>
@@ -206,7 +206,7 @@ export const Home = () => {
           {/* Barbero 2 */}
           <div className="bg-slate-900 rounded-2xl border border-slate-800 overflow-hidden text-center p-6">
             <div className="w-24 h-24 bg-slate-800 rounded-full mx-auto mb-4 flex items-center justify-center text-3xl">✂️</div>
-            <h3 className="text-lg font-bold text-white">Mateo Silva</h3>
+            <h3 className="text-lg font-bold text-white">Jesus 2</h3>
             <p className="text-xs text-cyan-400 font-medium mt-0.5">Especialista en Barbas & Spa</p>
             <p className="text-xs text-slate-400 mt-3">Experto en perfilados y tratamientos de hidratación.</p>
           </div>
@@ -214,7 +214,7 @@ export const Home = () => {
           {/* Barbero 3 */}
           <div className="bg-slate-900 rounded-2xl border border-slate-800 overflow-hidden text-center p-6">
             <div className="w-24 h-24 bg-slate-800 rounded-full mx-auto mb-4 flex items-center justify-center text-3xl">💈</div>
-            <h3 className="text-lg font-bold text-white">David Ruiz</h3>
+            <h3 className="text-lg font-bold text-white">Jesus 3</h3>
             <p className="text-xs text-cyan-400 font-medium mt-0.5">Diseños Urbanos & Freestyle</p>
             <p className="text-xs text-slate-400 mt-3">Especializado en tendencias modernas y cortes urbanos.</p>
           </div>
@@ -253,14 +253,14 @@ export const Home = () => {
                   <span className="text-[10px] bg-amber-500/10 text-amber-400 px-2 py-0.5 rounded-full font-bold border border-amber-500/20">Miembro VIP</span>
                 </div>
                 <p className="text-xs text-slate-300 italic leading-relaxed">
-                  "El servicio con Carlos es impecable. Es de las pocas barberías donde respetan la hora exacta de la cita y la atención bilingüe me facilitó todo."
+                  "El servicio con Jesus es impecable. Es de las pocas barberías donde respetan la hora exacta de la cita y la atención bilingüe me facilitó todo."
                 </p>
               </div>
               
               <div className="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between">
                 <div>
                   <h4 className="text-xs font-bold text-white">Michael R.</h4>
-                  <p className="text-[10px] text-slate-500">Atendido por: Carlos "Master"</p>
+                  <p className="text-[10px] text-slate-500">Atendido por: Jesus "Master"</p>
                 </div>
                 <span className="text-[10px] text-slate-500">Hace 2 días</span>
               </div>
@@ -281,7 +281,7 @@ export const Home = () => {
               <div className="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between">
                 <div>
                   <h4 className="text-xs font-bold text-white">Andrés G.</h4>
-                  <p className="text-[10px] text-slate-500">Atendido por: Mateo Silva</p>
+                  <p className="text-[10px] text-slate-500">Atendido por: Jesus 2</p>
                 </div>
                 <span className="text-[10px] text-slate-500">Hace 1 semana</span>
               </div>
@@ -302,7 +302,7 @@ export const Home = () => {
               <div className="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between">
                 <div>
                   <h4 className="text-xs font-bold text-white">Daniel M.</h4>
-                  <p className="text-[10px] text-slate-500">Atendido por: David Ruiz</p>
+                  <p className="text-[10px] text-slate-500">Atendido por: Jesus 2</p>
                 </div>
                 <span className="text-[10px] text-slate-500">Hace 2 semanas</span>
               </div>
@@ -321,7 +321,7 @@ export const Home = () => {
         <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
           <div>
             <h3 className="text-lg font-bold text-white mb-2">📍 Ubicación / Location</h3>
-            <p className="text-sm text-slate-300">Calle Principal # 10 - 20</p>
+            <p className="text-sm text-slate-300">Calle 44 # 11f - xx</p>
             <p className="text-xs text-slate-400 mt-1">Zona Centro / Turística</p>
           </div>
           <div>

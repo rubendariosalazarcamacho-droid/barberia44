@@ -12,7 +12,7 @@ export const Navbar = () => {
         {/* LOGO BARBERÍA */}
         <div className="flex items-center gap-2 font-extrabold text-lg text-cyan-400">
           <span>✂️</span>
-          <span>BARBERÍA</span>
+          <span>BARBERÍA FORTY FOUR</span>
         </div>
 
         {/* BOTÓN HAMBURGUESA (MÓVIL) */}
